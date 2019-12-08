@@ -1,0 +1,22 @@
+C:\Users\Bolt\source\repos\treino\treino\obj\Debug\treino.csprojAssemblyReference.cache
+C:\Users\Bolt\source\repos\treino\treino\obj\Debug\treino.Form1.resources
+C:\Users\Bolt\source\repos\treino\treino\obj\Debug\treino.Properties.Resources.resources
+C:\Users\Bolt\source\repos\treino\treino\obj\Debug\treino.csproj.GenerateResource.cache
+C:\Users\Bolt\source\repos\treino\treino\obj\Debug\treino.csproj.CoreCompileInputs.cache
+C:\Users\Bolt\source\repos\treino\treino\bin\Debug\treino.exe.config
+C:\Users\Bolt\source\repos\treino\treino\bin\Debug\treino.exe
+C:\Users\Bolt\source\repos\treino\treino\bin\Debug\treino.pdb
+C:\Users\Bolt\source\repos\treino\treino\obj\Debug\treino.exe
+C:\Users\Bolt\source\repos\treino\treino\obj\Debug\treino.pdb
+C:\Users\Bolt\source\repos\treino\treino\obj\Debug\treino.Form2.resources
+C:\Users\WARLOCK\source\repos\treino\treino\obj\Debug\treino.csprojAssemblyReference.cache
+C:\Users\WARLOCK\source\repos\treino\treino\obj\Debug\treino.Form1.resources
+C:\Users\WARLOCK\source\repos\treino\treino\obj\Debug\treino.Form2.resources
+C:\Users\WARLOCK\source\repos\treino\treino\obj\Debug\treino.Properties.Resources.resources
+C:\Users\WARLOCK\source\repos\treino\treino\obj\Debug\treino.csproj.GenerateResource.cache
+C:\Users\WARLOCK\source\repos\treino\treino\obj\Debug\treino.csproj.CoreCompileInputs.cache
+C:\Users\WARLOCK\source\repos\treino\treino\bin\Debug\W4rL0cK Utility Box.exe.config
+C:\Users\WARLOCK\source\repos\treino\treino\bin\Debug\W4rL0cK Utility Box.exe
+C:\Users\WARLOCK\source\repos\treino\treino\bin\Debug\W4rL0cK Utility Box.pdb
+C:\Users\WARLOCK\source\repos\treino\treino\obj\Debug\W4rL0cK Utility Box.exe
+C:\Users\WARLOCK\source\repos\treino\treino\obj\Debug\W4rL0cK Utility Box.pdb

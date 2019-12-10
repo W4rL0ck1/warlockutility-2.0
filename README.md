@@ -13,3 +13,7 @@ Funções: rapida execução de comandos do prompt de comando do windows como:
 *Conversão de tipo de mídia de discos
 
 download da ferramenta: https://drive.google.com/open?id=1RHsLKkO-Uxz48mQjoKWoDGf5JCTM8IA2
+
+Modo de uso: A ferramenta depende de um arquivo.Ini que guardará os parametros e servidores personalizados do usúario para o teste de latencia, ao utilizar a ferramenta pela primeira vez, clique no icone de default, no canto inferior direito para criar o arquivo com os valores padrões.
+Se desejar salvar um servidor de sua preferencia utilize a caixa com icone de disquete para armazena-lo. O programa funciona com até dez servidores personalizados.
+

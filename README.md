@@ -14,11 +14,12 @@ Funções: rapida execução de comandos do prompt de comando do windows como:
 
 download da ferramenta: https://drive.google.com/open?id=1M3LEddOKHE3f2sqAAv3acOKpdkG6DPWA
 
+<h2>
  <img 
     title="Cube"
     src="https://github.com/W4rL0ck1/warlockutility-2.0/blob/master/screenshot%20menu%20inicial.JPG"
-    width="920"
-    heigth="120" 
+    width="500"
+    heigth="320" 
     style="
       border-radius: 4px;
       position: relative;
@@ -26,13 +27,14 @@ download da ferramenta: https://drive.google.com/open?id=1M3LEddOKHE3f2sqAAv3acO
       height: 32px;
       margin-left: 16px;
     "
-  > 
+  > </h2>
   
+  <h2>
    <img 
     title="Cube"
     src="https://github.com/W4rL0ck1/warlockutility-2.0/blob/master/screenshot%20menu%20inicial2.JPG"
-    width="920"
-    heigth="120" 
+    width="500"
+    heigth="320" 
     style="
       border-radius: 4px;
       position: relative;
@@ -40,13 +42,14 @@ download da ferramenta: https://drive.google.com/open?id=1M3LEddOKHE3f2sqAAv3acO
       height: 32px;
       margin-left: 16px;
     "
-  > 
+ > </h2>
   
+  <h2>
    <img 
     title="Cube"
     src="https://github.com/W4rL0ck1/warlockutility-2.0/blob/master/screenshot%20menu%20inicial3.JPG"
-    width="920"
-    heigth="120" 
+     width="500"
+    heigth="320" 
     style="
       border-radius: 4px;
       position: relative;
@@ -54,7 +57,7 @@ download da ferramenta: https://drive.google.com/open?id=1M3LEddOKHE3f2sqAAv3acO
       height: 32px;
       margin-left: 16px;
     "
-  > 
+ > </h2>
   
   
 

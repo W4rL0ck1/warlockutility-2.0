@@ -16,48 +16,27 @@ download da ferramenta: https://drive.google.com/open?id=1M3LEddOKHE3f2sqAAv3acO
 
 <h2>
  <img 
-    title="Cube"
+    title="print1"
     src="https://github.com/W4rL0ck1/warlockutility-2.0/blob/master/screenshot%20menu%20inicial.JPG"
-    width="500"
-    heigth="320" 
-    style="
-      border-radius: 4px;
-      position: relative;
-      width: 32px;
-      height: 32px;
-      margin-left: 16px;
-    "
-  > </h2>
+    width="1200"
+    heigth="820" 
+ </h2>
   
   <h2>
    <img 
-    title="Cube"
+    title="print2"
     src="https://github.com/W4rL0ck1/warlockutility-2.0/blob/master/screenshot%20menu%20inicial2.JPG"
-    width="500"
-    heigth="320" 
-    style="
-      border-radius: 4px;
-      position: relative;
-      width: 32px;
-      height: 32px;
-      margin-left: 16px;
-    "
- > </h2>
+    width="1200"
+    heigth="820" 
+ </h2>
   
   <h2>
    <img 
-    title="Cube"
+    title="print3"
     src="https://github.com/W4rL0ck1/warlockutility-2.0/blob/master/screenshot%20menu%20inicial3.JPG"
-     width="500"
-    heigth="320" 
-    style="
-      border-radius: 4px;
-      position: relative;
-      width: 32px;
-      height: 32px;
-      margin-left: 16px;
-    "
- > </h2>
+    width="1200"
+    heigth="820" 
+</h2>
   
   
 
